@@ -17,7 +17,7 @@ function a(){
 }
 
 function b(){
-    var d = 'Hello';
+    var d = 'Hello1';
     console.log(d);
 }
 a();
